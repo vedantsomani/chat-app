@@ -33,8 +33,6 @@ Steps:
 
     Clone the repository:
 
-git clone https://github.com/yourusername/EduCon-Chat.git
-cd EduCon-Chat
 
 Compile and run the client:
 
